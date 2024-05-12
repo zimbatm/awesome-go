@@ -690,6 +690,7 @@ _Data stores with expiring records, in-memory distributed data stores, or in-mem
 
 - [badger](https://github.com/dgraph-io/badger) - Fast key-value store in Go.
 - [bbolt](https://github.com/etcd-io/bbolt) - An embedded key/value database for Go.
+- [bolted](https://github.com/draganm/bolted) - Wrapper around bbolt with advanced features
 - [Bitcask](https://git.mills.io/prologic/bitcask) - Bitcask is an embeddable, persistent and fast key-value (KV) database written in pure Go with predictable read/write performance, low latency and high throughput thanks to the bitcask on-disk layout (LSM+WAL).
 - [buntdb](https://github.com/tidwall/buntdb) - Fast, embeddable, in-memory key/value database for Go with custom indexing and spatial support.
 - [clover](https://github.com/ostafen/clover) - A lightweight document-oriented NoSQL database written in pure Golang.
